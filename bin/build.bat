@@ -9,7 +9,7 @@ cd ..\build
 set build_root=%cd%
 set bin_root=%src_root%\bin
 set custom_root=%src_root%\custom
-set custom_bin=%custom_root\bin
+set custom_bin=%custom_root%\bin
 cd %location%
 
 set mode=%1
